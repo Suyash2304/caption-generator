@@ -10,9 +10,9 @@ import { PLATFORMS, WRITING_STYLES } from './lib/constants';
 import CaptionGenerator from './components/CaptionGenerator';
 
 function App() {
-  const [platform, setPlatform] = useState(PLATFORMS[2]); // LinkedIn default
+  const [platform, setPlatform] = useState(PLATFORMS[2]);
   const [topic, setTopic] = useState('Course Completion');
-  const [writingStyle, setWritingStyle] = useState(WRITING_STYLES[0]); // Professional default
+  const [writingStyle, setWritingStyle] = useState(WRITING_STYLES[0]);
   const [captions, setCaptions] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);

@@ -1,4 +1,4 @@
-# 🚀 PROJECT_NAME
+# 🚀 CAPTION-GENERATOR
 
 A powerful AI-driven web application leveraging the **Gemini API** to provide intelligent, context-aware features. This project is deployed live on **Netlify** and can be accessed below.
 
@@ -23,8 +23,7 @@ A powerful AI-driven web application leveraging the **Gemini API** to provide in
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Suyash2304/caption-generator.git
 ```
 
 ### 2. Install Dependencies
