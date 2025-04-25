@@ -4,7 +4,7 @@ A powerful AI-driven web application leveraging the **Gemini API** to provide in
 
 ## 🌐 Live Demo
 
-👉 [Check out the Live Site](https://LIVE_LINK.netlify.app)
+👉 [Check out the Live Site](https://sparkle-caption-generator.netlify.app/)
 
 ---
 
